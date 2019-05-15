@@ -1,5 +1,5 @@
 # LoanReader
-Reads Zonky API and prints new leans every 5 minutes
+Reads Zonky API and prints new loans every 5 minutes
 
 ## Install
 This is a maven managed project. 
